@@ -2,8 +2,8 @@
 
 This project was Published at:https://rahulchoudhary2021.github.io/Reactshopweb/
 
-<p>#Topics Uses In This Project are:</p>
-<br/>
+#Topics Uses In This Project are:
+
 1>Life Cycle Methods Of React js
 <br/>
 2>AJAX Call
