@@ -6,7 +6,7 @@ This project was Published at:https://rahulchoudhary2021.github.io/Reactshopweb/
 
 1>Life Cycle Methods Of React js
 <br/>
-2>AJAX Call
+2>XMLHttpRequest
 <br/>
 3>Performance Optimizatio: Pure Components, React.memo
 <br/>
